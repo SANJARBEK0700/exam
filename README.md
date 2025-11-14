@@ -6,3 +6,4 @@
 # exam
 # exam
 # exam
+# shop_manager
