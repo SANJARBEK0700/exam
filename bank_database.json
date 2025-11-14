@@ -1,0 +1,26 @@
+{
+    "4242 3800 5455 7788": {
+        "name": "Sanjarbek",
+        "lastname": "Turgunboev",
+        "card_number": "4242 3800 5455 7788",
+        "PIN": "0700",
+        "balance": 3330.0,
+        "number": "+998332005676"
+    },
+    "5454 6500 3739 2639": {
+        "name": "Jahongir",
+        "lastname": "Qurbonov",
+        "card_number": "5454 6500 3739 2639",
+        "PIN": "0209",
+        "balance": 10000,
+        "number": "+998331420209"
+    },
+    "8600 0423 2234 6031": {
+        "name": "Rustamov",
+        "lastname": "Shaxzodbek",
+        "card_number": "8600 0423 2234 6031",
+        "PIN": "8086",
+        "balance": 7700.0,
+        "number": "+998939731982"
+    }
+}
